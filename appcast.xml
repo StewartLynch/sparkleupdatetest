@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>sparkleupdatetest</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Wed, 15 May 2024 09:54:18 -0700</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/StewartLynch/sparkleupdatetest/releases/download/prod/SparkleUpdateTest.dmg" length="850006" type="application/octet-stream" sparkle:edSignature="wKjRMZES62eSBRNa2Tw9VadYd82pBGav1UGifNHZgpGuMzmUp2tCDH+I1fnAQP3qptHXTQ29rYaomSaReY0UCg=="/>
+        </item>
+    </channel>
+</rss>
