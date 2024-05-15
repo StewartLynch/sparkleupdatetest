@@ -3,12 +3,12 @@
     <channel>
         <title>sparkleupdatetest</title>
         <item>
-            <title>1.4</title>
-            <pubDate>Wed, 15 May 2024 15:39:41 -0700</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <title>1.5</title>
+            <pubDate>Wed, 15 May 2024 15:54:11 -0700</pubDate>
+            <sparkle:version>1.5</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/StewartLynch/sparkleupdatetest/releases/download/prod/SparkleUpdateTest.dmg" length="848050" type="application/octet-stream" sparkle:edSignature="9374DWNq2cudL4aXK29eBuUkhslHYjCRkl6woOHMfuoNTRXALXH++FGEq9xjkUPiL+jz5Jy1R1Py+2qqrXfcCQ=="/>
+            <enclosure url="https://github.com/StewartLynch/sparkleupdatetest/releases/download/prod/SparkleUpdateTest.dmg" length="847020" type="application/octet-stream" sparkle:edSignature="bGrGRL18BUFT5J72xBU/T2KCtMSqDtMiCJGYA+A20EGnVTutv0EDva/lFXKdJurWLzsJR6mkzLu6ZE43NNuDCg=="/>
         </item>
     </channel>
 </rss>
